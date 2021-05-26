@@ -7,8 +7,7 @@ function App() {
     <div className="App">
       Hello World
       <StudentIDCard >
-        <p>Student Details</p>
-        <p>College Details</p>
+        <h1>Student Details</h1>
       </StudentIDCard>
     </div>
   );
